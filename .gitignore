@@ -1,0 +1,5 @@
+
+tokens/mal-client-secret.txt
+tokens/mal-client-id.txt
+*.pyc
+mal.py
